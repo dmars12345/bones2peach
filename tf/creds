@@ -1,0 +1,4 @@
+[bones2peaches]
+aws_access_key_id = ACCESS
+aws_secret_access_key = SECRET
+region = us-east-1

@@ -1,0 +1,1 @@
+30 22 * * * python3 /root/v4/extract/LoadCapacityItems.py >> /root/v4/extract/cronlogs/LoadCapacityItems.py.log 2>&1

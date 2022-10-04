@@ -1,0 +1,1 @@
+* 6 * * * python3 /root/v4/extract/PumpLogsStart/PumpLogsStart.py >> /root/v4/extract/PumpLogsStart/cronlogs/PumpLogsStart.log 2>&1

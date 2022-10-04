@@ -1,0 +1,7 @@
+{
+    "repository": {
+        "repositoryName": "v4-log-repo",
+        "imageScanningConfiguration": {
+            "scanOnPush": true
+        }
+    }

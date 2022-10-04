@@ -1,0 +1,9 @@
+{
+  "Role": {
+      "AssumeRolePolicyDocument": "<URL-encoded-JSON>",
+      "RoleId": "AKIAIOSFODNN7EXAMPLE",
+      "RoleName": "EC2-Log-Role",
+      "Path": "/",
+      "Arn": "arn:aws:iam::AWSID:role/EC2-Log-Role"
+  }
+}

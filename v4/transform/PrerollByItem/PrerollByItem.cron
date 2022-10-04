@@ -1,0 +1,1 @@
+0 21 * * * python3 /root/v4/tansform/PrerollByItem/PrerollByItem.py >> /root/v4/tansform/PrerollByItem/cronlogs/filterPrerollByItem.log 2>&1
